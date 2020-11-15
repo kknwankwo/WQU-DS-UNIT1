@@ -4,7 +4,8 @@
 
 Click on the link above
 
-Login (# PLEASE DO NOT CHANGE LOGIN DETAILS):
+Login (PLEASE DO NOT CHANGE LOGIN DETAILS):
+
 Username: knwankwo184 
 
 Password: 0ab134
