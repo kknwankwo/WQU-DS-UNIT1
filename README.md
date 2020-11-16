@@ -26,7 +26,3 @@ Syllabus covered in my code:
 6. Data munging.
 
 7. SQL & Object-relation mapping.
-
-
-
-# [My site](file:///C:/Users/Nwankwo%20Kenneth/Desktop/kknwankwo.html#)
