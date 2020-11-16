@@ -2,15 +2,15 @@
 
 # [My code from WorldQuant University's Data Science Course](https://wqu-ds.tditrain.com/user/knwankwo184/tree/datacourse)
 
-Click on the link above
+STEP 1: Click on the link above.
 
-Login (PLEASE DO NOT CHANGE LOGIN DETAILS):
+STEP 2: Login (PLEASE DO NOT CHANGE LOGIN DETAILS):
 
 Username: knwankwo184 
 
 Password: 0ab134
 
-Launch server, and see miniprojects in python file and data-wrangling file.
+STEP 3: Launch server, and see miniprojects in python file and data-wrangling file.
 
 Syllabus covered in my code:
 1. Programming and Python fundamentals, Data structures (miniproject: in, ip).
