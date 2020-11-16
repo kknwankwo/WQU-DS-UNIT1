@@ -26,3 +26,7 @@ Syllabus covered in my code:
 6. Data munging.
 
 7. SQL & Object-relation mapping.
+
+
+
+# [My code from WorldQuant University's Data Science Course](file:///C:/Users/Nwankwo%20Kenneth/Desktop/kknwankwo.html#)
