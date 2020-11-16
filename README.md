@@ -4,7 +4,7 @@
 
 STEP 1: Click on the link above.
 
-STEP 2: Login (PLEASE DO NOT CHANGE LOGIN DETAILS):
+STEP 2: Login (PLEASE KEEP PRIVATE AND DO NOT CHANGE LOGIN DETAILS):
 
 Username: knwankwo184 
 
